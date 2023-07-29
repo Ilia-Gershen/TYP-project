@@ -15,3 +15,5 @@ Deep Learning Model GRU-LSTM -> Figuring out the best normalisation for the mode
 Deep Learning Model LSTM-GRU -> Figuring out the best normalisation for the model with closing price only and for model with volume of trading and closing price together.
 
 Experiment With Models -> Experiment with input windows, testing 4 input formats in order to determine the best for our 3 types of models.
+
+Read more at: https://iliagershenzon.com/projects.html#project1 
